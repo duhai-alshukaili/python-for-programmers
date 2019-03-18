@@ -7,8 +7,8 @@ Please feel free to suggest other resources by [creating an issue](https://githu
 To register for the course please [fill the registration form](http://bit.ly/2ExYfEB)
 
 ## Course Meeting Times
-We will meet for five weeks from 18 Apr 2019 - 17 Apr 2019  at the following times:
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday: 4:00 PM - 6:00 PM (Room: A110)
+We will meet for five weeks from 27 Mar 2019 - 29 Apr 2019, every Monday and Wednesday, at the following times:
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday: 4:00 PM - 6:00 PM (Room: A112)
 * Wednesday: 4:00 PM - 6:00 PM (Room: A112)
 
 ## Course Information
@@ -18,6 +18,18 @@ The class will use the  [Python 3.7 programming language](https://www.python.org
 ## Readings
 The textbooks for this course are [Programming in Python 3: A Complete Introduction to the Python Language (PIP)](https://github.com/duhai-alshukaili/python-for-programmers/blob/master/books/ProgrammingInPython3.pdf) by Mark Summerfield and [RealPython Part 1: Introduction to Python (RP1)](https://github.com/duhai-alshukaili/python-for-programmers/blob/master/books/RealPythonPart1.pdf). These books cover in details the topics of the course.
 
+| SES # 	| Topic                                                        	| Reading 1                                            	| Reading 2                                                     	|
+|-------	|--------------------------------------------------------------	|------------------------------------------------------	|---------------------------------------------------------------	|
+| 1     	| Environment Setup and Python Basics                          	| PIP Chapter 1                                        	| RP1 Getting Started                                           	|
+| 2     	| Working Basic Datat-ypes: integers, floats and string.       	| PIP Chapter 2                                        	| RP1 Fundamentals: Strings and Methods                         	|
+| 3     	| Branching and Iteration                                      	| PIP Chapter 4 Section 4.1                            	|  RP1 Fundamentals: Functions and Loops and  Conditional Logic 	|
+| 4     	| Modular Programing: Importing Modules and Creating Functions 	| PIP Chapter 4 Section 4.3, Chapter 5                 	| RP1 Fundamentals: Functions and Loops                         	|
+| 5     	| Working with structured data: tuples, lists and dictionaries 	| PIP Chapter 3                                        	| RP1 Fundamentals: Lists and Dictionaries                      	|
+| 6     	| File I/O                                                     	| PIP Chapter 7 Section 7.2                            	| RP1 File Input and Output                                     	|
+| 7     	| Interacting with Excel                                       	| [https://openpyxl.readthedocs.io/en/stable/](https://openpyxl.readthedocs.io/en/stable/)           	| [https://realpython.com/python-csv/](https://realpython.com/python-csv/ )                            	|
+| 8     	| Processing text using regular expressions                    	| RP1 Appendix B Regular Expressions                   	|                                                               	|
+| 9     	| Basic object oriented programming                            	| RP1 Appendix C Primer on Object-Oriented Programming 	|                                                               	|
+| 10    	| Capstone Projects Presentations                              	|                                                      	|                                                               	|
 ## Required Software
 To learn python, most likely you will need to install a python environment. For this course, we will use 
 [Anaconda](https://www.anaconda.com/), which a free and open-source distribution of the python (and R) programming language. 
