@@ -7,9 +7,9 @@ Please feel free to suggest other resources by [creating an issue](https://githu
 To register for the course please [fill the registration form](http://bit.ly/2ExYfEB)
 
 ## Course Meeting Times
-We will meet for five weeks from 27 Mar 2019 - 29 Apr 2019, every Monday and Wednesday, at the following times:
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday: 4:00 PM - 6:00 PM (Room: A112)
-* Wednesday: 4:00 PM - 6:00 PM (Room: A112)
+We will meet for two weeks from 03 Nov 2019 - 14 Nov 2019, every working day, at the following time:
+* 4:00 PM - 6:00 PM in LAB 4(Room: A112)
+
 
 ## Course Information
 *Python for Programmers* is intended for those with some programming experience. The course will discuss topics necessary for the participants to be able to create and execute Python programs. The material presented will provide knowledge and skills to students that serve as a foundation for continued learning of given areas.
@@ -67,3 +67,14 @@ Here are some useful video lectures that will get you started with Python.
 * [Python Basics](https://www.coursera.org/learn/python-basics)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
+## Frequently Asked Questions
+
+* **Who can register for this course?** Anyone. This course is open to staff, student
+alumni, and the community. If you are interested about Python, the this is course
+is for you.
+* **Is there an attendance certificate for the course?**
+Yes, only of you attended all sessions and also present you Capstone Project idea.
+* **Can you change the time of the course?** Given the current resource limitations 4:00 PM - 6:00 PM 
+is the most suitable time to conduct the lectures.
+* **How much programming background do I need?** I will assume the you have 
+past programming experience and you want to learn Python.  
