@@ -73,7 +73,7 @@ Here are some useful video lectures that will get you started with Python.
 alumni, and the community. If you are interested about Python, the this is course
 is for you.
 * **Is there an attendance certificate for the course?**
-Yes, only of you attended all sessions and also present you Capstone Project idea.
+Yes, only if you attended all sessions and also present you Capstone Project idea.
 * **Can you change the time of the course?** Given the current resource limitations 4:00 PM - 6:00 PM 
 is the most suitable time to conduct the lectures.
 * **How much programming background do I need?** I will assume the you have 
